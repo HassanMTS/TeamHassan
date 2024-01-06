@@ -3,7 +3,7 @@
 
 This is a repository for Fullstack Discord Clone: Next.js 13, React, Socket.io, Prisma, Tailwind, MySQL 
 
-LIVE SITE : https://teamhassan.onrender.com/ LIVE AS OF 12/13/2023
+LIVE SITE : https://teamhassan.onrender.com/ CURRENTLY DOWN
 
 Features:
 
